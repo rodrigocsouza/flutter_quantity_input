@@ -1,3 +1,8 @@
+## 1.0.4 - 28/09/2023
+
+### Fixed
+* Version of intl changed to 0.18.0
+
 ## 1.0.2 - 26-02-2022
 
 ### Fixed
